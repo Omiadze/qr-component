@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Click to view live website](https://your-live-site-url.com)
+- Live Site URL: [Click to view live website](https://omiadze.github.io/qr-component/)
 
 ### Built with
 
